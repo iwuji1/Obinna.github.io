@@ -1,0 +1,50 @@
+@media (min-width: 768px) {
+
+.navbar-brand.abs
+    {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+}
+
+.logo {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 70px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 40px;
+}
+
+body {
+  font-size: 18px;
+  font-family: Arial;
+}
+
+img {
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+}
