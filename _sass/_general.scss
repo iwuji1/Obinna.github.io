@@ -1,10 +1,121 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+@media (min-width: 768px) {
+
+.navbar-brand.abs
+    {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+}
+
+.logo {
+}
+
+.text-center {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: Roboto, Sans-serif;
+  font-size: 70px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Roboto,Sans-serif;
+  font-size: 60px;
+  padding: 5%;
+}
+
+h3 {
+  text-align: center;
+  font-family: Sans-serif;
 }
 
 body {
   font-size: 18px;
   font-family: Arial;
+}
+
+.page-title {
+  font-family: Roboto,Sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.page-header {
+  text-align: center;
+  font-family: Roboto,Sans-serif;
+  font-size: 50px;
+  color: #000080;
+  font-weight: 300;
+  padding: 5%;
+}
+
+.box-header {
+  font-family: Roboto,Sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 5%;
+  color: #000080;
+}
+
+.banner-img {
+  width: 100%;
+  border-radius: 0px 0px 30% 30%;
+}
+
+.page-image-1 {
+  text-align: center;
+  width: 100%;
+
+}
+
+.page-image-2 {
+  text-align: center;
+  width: 100%;
+
+}
+
+.flex-container {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-child {
+    flex: 1;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+.flex-2 {
+  padding: 5%;
+}
+
+.flex-3 {
+  padding: 5%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
 }
