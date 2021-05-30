@@ -10,19 +10,28 @@
 }
 
 .logo {
-  width: 100%;
+}
+
+.text-center {
+  text-align: center;
 }
 
 h1 {
   text-align: center;
-  font-family: Sans-serif;
+  font-family: Roboto, Sans-serif;
   font-size: 70px;
 }
 
 h2 {
   text-align: center;
+  font-family: Roboto,Sans-serif;
+  font-size: 60px;
+  padding: 5%;
+}
+
+h3 {
+  text-align: center;
   font-family: Sans-serif;
-  font-size: 40px;
 }
 
 body {
@@ -30,8 +39,70 @@ body {
   font-family: Arial;
 }
 
-img {
+.page-title {
+  font-family: Roboto,Sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.page-header {
+  text-align: center;
+  font-family: Roboto,Sans-serif;
+  font-size: 50px;
+  color: #000080;
+  font-weight: 300;
+  padding: 5%;
+}
+
+.box-header {
+  font-family: Roboto,Sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 5%;
+  color: #000080;
+}
+
+.banner-img {
   width: 100%;
+  border-radius: 0px 0px 30% 30%;
+}
+
+.page-image-1 {
+  text-align: center;
+  width: 100%;
+
+}
+
+.page-image-2 {
+  text-align: center;
+  width: 100%;
+
+}
+
+.flex-container {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-child {
+    flex: 1;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+.flex-2 {
+  padding: 5%;
+}
+
+.flex-3 {
+  padding: 5%;
 }
 
 .container {
