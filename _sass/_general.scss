@@ -9,11 +9,34 @@
     }
 }
 
+nav {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 24px;
+}
+
 .logo {
 }
 
 .text-center {
   text-align: center;
+}
+.text-left {
+  text-align: left;
+  padding-left: 0;
+}
+
+.nav-link {
+  transition: 0.2s;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+
+.nav-link:hover {
+  color: #000080;
+  font-weight: 600;
 }
 
 h1 {
@@ -31,12 +54,27 @@ h2 {
 
 h3 {
   text-align: center;
-  font-family: Sans-serif;
+  font-family: Roboto,Sans-serif;
+  padding: 2%;
 }
 
 body {
-  font-size: 18px;
-  font-family: Arial;
+  font-size: 20px;
+  font-family: Roboto, sans-serif;;
+}
+
+ol {
+  margin-left: 18%;
+  margin-right: 22%;
+  text-align: justify;
+}
+
+.p-container {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .page-title {
@@ -58,7 +96,10 @@ body {
   font-family: Roboto,Sans-serif;
   font-size: 30px;
   font-weight: 700;
-  padding: 5%;
+  padding-left: 0;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 5%;
   color: #000080;
 }
 
@@ -75,7 +116,8 @@ body {
 
 .page-image-2 {
   text-align: center;
-  width: 100%;
+  height: 50%;
+  width: 50%;
 
 }
 
@@ -93,12 +135,31 @@ body {
     font-weight: 300;
 }
 
+.flex-container-v {
+    display: flex;
+    flex-direction: column;
+    margin-left: 8%;
+    margin-right: 8%;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-child-v {
+    flex: 1;
+    font-size: 20px;
+    font-weight: 300;
+}
+
 .flex-child:first-child {
     margin-right: 20px;
 }
 
 .flex-2 {
   padding: 5%;
+}
+
+.flex-2-1 {
+  padding: none;
 }
 
 .flex-3 {
@@ -118,4 +179,12 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 70px;
+}
+
+.footer {
+  border-radius: 0 0 0px 0px;
+  background-color: #000080; /* Black Gray */
+  color: #fff;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
