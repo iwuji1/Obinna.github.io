@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-
+title: Home
 permalink: /
 ---
 <div class="container" style="max-width: 100%; padding: 0;">
@@ -34,25 +34,25 @@ permalink: /
 <div class="flex-container">
 
 <div class="flex-3 flex-child">
-<div class="page-image-2">
-<img class="page-image-2" src="assets/Data_stories.png" alt="Data Stories">
+<div class="page-image-1">
+<img class="page-image-1" src="assets/Data_stories.png" alt="Data Stories">
 </div>
 
 <h3 class="box-header">Data Stories</h3>
 
-<p>For most of my professional life(Which is not very long at this point), I have been a data analyst. I like how data and visuals can help better understandings of complex issues whether that relates to revenue or migration patterns. I want to create more data stories to illuminate things I find interesting so here is a catelog of my work thus far!</p>
+<p>For most of my professional life(Which is not very long at this point), I have been a data analyst. I like how data and visuals can help better understandings of complex issues whether that relates to revenue or migration patterns. I want to create more data stories to illuminate things I find interesting so here is a catalogue of my work thus far!</p>
 <div class="text-center">
 <a href="/blog" class="btn btn-outline-primary" role="button">Check out data stories</a>
 </div>
 </div>
 
 <div class="flex-3 flex-child">
-<div class="page-image-2">
-<img class="page-image-2" src="assets/Daily Writing.jpeg" alt="Daily Writing">
+<div class="page-image-1">
+<img class="page-image-1" src="assets/Daily Writing.jpeg" alt="Daily Writing">
 </div>
 <h3 class="box-header">Daily Writing</h3>
 
-<p>I am a self proclaimed writer/storyteller! A big part of that is having a daily practice of doing that writing/storytelling. Here is a catelog of my writing. It varies from funny to serious, life stories to random musings; all important for me to develop this practice so that one day I can go from self proclaimed to actual. Hope you enjoy</p>
+<p>I am a self proclaimed writer/storyteller! A big part of that is having a daily practice of doing that writing/storytelling. Here is a catalogue of my writing. It varies from funny to serious, life stories to random musings; all important for me to develop this practice so that one day I can go from self proclaimed to actual. Hope you enjoy</p>
 <div class="text-center">
 <a href="/blog" class="btn btn-outline-primary" role="button">Check out my writings</a>
 </div>
@@ -60,8 +60,8 @@ permalink: /
 
 <div class="flex-3 flex-child">
 
-<div class="page-image-2">
-<img class="page-image-2" src="assets/Afripple logo.png" alt="Afripple">
+<div class="page-image-1">
+<img class="page-image-1" src="assets/Afripple logo.png" alt="Afripple">
 </div>
 
 <h3 class="box-header">Afripple</h3>
