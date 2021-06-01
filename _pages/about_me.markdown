@@ -6,11 +6,8 @@ permalink: /about_me
 
 # About Me
 
-<div class="p-container">
-
 I'm very much still trying to come up with proper professional title. It's a bit of a struggle because I find that I like different aspects of different fields but find that the given titles tend to isolate what I can do to that specific role.
-
-</div>
+{: .sub-container}
 
 ### Let me give an examples:
 
