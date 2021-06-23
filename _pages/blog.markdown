@@ -6,8 +6,9 @@ permalink: /blog
 
 ## My Blog Posts
 
-<ul>
+<div>
   {% for post in site.posts %}
-  <li><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
   {% endfor %}
-</ul>
+</div>

@@ -41,26 +41,27 @@ nav {
 
 h1 {
   text-align: center;
-  font-family: Roboto, Sans-serif;
-  font-size: 70px;
+  font-size: 80px;
+  font-family: 'Recoleta Bold',Georgia,sans-serif;
 }
 
 h2 {
   text-align: center;
-  font-family: Roboto,Sans-serif;
+  font-family: 'Recoleta Bold',Georgia,sans-serif;
   font-size: 60px;
   padding: 5%;
 }
 
 h3 {
   text-align: center;
-  font-family: Roboto,Sans-serif;
+  font-family: 'Recoleta Bold',Georgia,sans-serif;
   padding: 2%;
 }
 
 body {
   font-size: 20px;
-  font-family: Roboto, sans-serif;;
+  font-family: sofia-pro,sans-serif;
+  font-weight: 200;
 }
 
 ol {
@@ -69,8 +70,22 @@ ol {
   text-align: justify;
 }
 
+p {
+
+}
+
+.sub-container {
+  font-size: 30px;
+  font-weight: 200;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
 .p-container {
-  font-family: Roboto, sans-serif;
+  font-family: sofia-pro,sans-serif;
+  text-align: justify;
   font-size: 20px;
   font-weight: 200;
   margin-left: 20%;
@@ -78,14 +93,13 @@ ol {
 }
 
 .page-title {
-  font-family: Roboto,Sans-serif;
+  font-family: 'Recoleta Bold',Georgia,sans-serif;
   font-weight: 900;
-  text-transform: uppercase;
 }
 
 .page-header {
   text-align: center;
-  font-family: Roboto,Sans-serif;
+  font-family: sofia-pro,sans-serif;
   font-size: 50px;
   color: #000080;
   font-weight: 300;
@@ -93,7 +107,7 @@ ol {
 }
 
 .box-header {
-  font-family: Roboto,Sans-serif;
+  font-family: 'Recoleta Bold',Georgia,sans-serif;
   font-size: 30px;
   font-weight: 700;
   padding-left: 0;
@@ -106,6 +120,13 @@ ol {
 .banner-img {
   width: 100%;
   border-radius: 0px 0px 30% 30%;
+}
+
+.featured_img {
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page-image-1 {
