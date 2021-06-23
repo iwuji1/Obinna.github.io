@@ -3,10 +3,14 @@ layout: post
 title:  "My weight Journey"
 date:   2021-05-27 22:40:01 +0100
 categories: Me Funny
+excerpt_separator: <!--more-->
 ---
 
 I have been through journey when it comes to my weight, one thing I have learnt is that no matter how hard you try no one will ever be satisfied with your weight, so you should just stop and make sure you are good enough for yourself.
 {: .p-container}
+<!--more-->
+
+<img class="featured_img" src="{{site.baseurl}}/assets/small_obi.jpg" alt="small_obi">
 
 When I was younger I was rather large, like I had man boobs and everything, it was said that I was one of the pioneers of twerking, cause I would walk my bum would just be jiggling. I would get made fun of because of it by friends and family and I felt bad but was too lazy to try working out, so I just did enough that I could play sports. That's right I was that over energetic fat kid running around over the game bumping people and dying of exhaustion afterwards . I kind of felt like mikey on that show recess, just instead of singing I liked acting and was overly persistent at sports.
 {: .p-container}
@@ -19,4 +23,4 @@ So now the issue was I was too skinny, truly there is no satisfying anyone. So I
 {: .p-container}
 
 Things finally came to head when I first started dating someone and they were like you know I’m a bigger girl so you are going to have to get some muscle to fit. That was the last straw! No you know what, I’m happy I’m fit enough that if someone was chasing I’m fast enough and have enough endurance to get away from them for a while. I’m strong enough, that if I was hanging from the edge of a ledge I can do a nathan drake and pull myself up. I may not have the packs, or defined muscles of your average african mix of good genes but that is what baggy shirts are for okay! Hides the nipples whilst still looking good.
-{: .p-container} 
+{: .p-container}
