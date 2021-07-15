@@ -15,6 +15,64 @@ nav {
   padding: 24px;
 }
 
+hr {
+  border-color: #000080;
+  border-width: 2px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.main-blog h2{
+  margin-left: 15%;
+  text-align: left;
+  padding-bottom: 1%;
+}
+
+.related-Posts h4{
+  text-align: left;
+  margin-left: 20%;
+  padding: 0%;
+  padding-bottom: 1%;
+}
+
+.related-Posts ul, .related-Posts ol{
+  list-style-type: none;
+}
+
+.related-Posts li
+{
+  margin-left: 18%;
+  font-size: 18px;
+}
+
+.poem h2{
+
+  text-align: left;
+  margin-left: 20%;
+  padding: 0%;
+  padding-top: 5%;
+
+}
+
+.poem h3{
+  text-align: left;
+  margin-left: 20%;
+  padding: 0%;
+  padding-bottom: 1%;
+}
+
+.poem ul, .poem ol{
+  list-style-type: none;
+}
+
+.poem li
+{
+  margin-left: 18%;
+  font-size: 18px;
+  font-weight: 200;
+}
+
+
 .logo {
 }
 
