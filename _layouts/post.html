@@ -13,4 +13,16 @@ layout: default
         </ul>
     </header>
     {{ content }}
+<hr>
+
+<div class="related-Posts">
+  <h4>Other posts</h4>
+    {% for post in site.posts %}
+    <ul>
+       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+       {{ post.title }}
+       </a></li>
+    </ul>
+    {% endfor %}
+</div>
 </article>

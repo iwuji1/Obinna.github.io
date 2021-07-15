@@ -42,7 +42,7 @@ permalink: /
 
 <p>For most of my professional life(Which is not very long at this point), I have been a data analyst. I like how data and visuals can help better understandings of complex issues whether that relates to revenue or migration patterns. I want to create more data stories to illuminate things I find interesting so here is a catalogue of my work thus far!</p>
 <div class="text-center">
-<a href="/blog" class="btn btn-outline-primary" role="button">Check out data stories</a>
+<a href="/Data_Stories" class="btn btn-outline-primary" role="button">Check out data stories</a>
 </div>
 </div>
 
@@ -68,6 +68,6 @@ permalink: /
 
 <p>I talk alot! It's a hobby if I'm honest. A good chunk of that is asking questions both to google and actual people. When I first graduated from University a big question is how does life actually work for people like me. Afripple is a blog dedicated to the everyday stories of Africans living outside of their home country. If you are as curious as I am about about other people's business this could be a good resource for you</p>
 <div class="text-center">
-<a href="/" class="btn btn-outline-primary" role="button">Go to Site</a>
+<a href="https://afripple.co.uk/" class="btn btn-outline-primary" role="button">Go to Site</a>
 </div>
 </div>
