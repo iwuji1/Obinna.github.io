@@ -9,10 +9,29 @@
     }
 }
 
-nav {
+.bg-img {
+  /* The image used */
+  // background-image: url('./assets/face chart.png');
+  background-size: cover;
+
+  min-height: 500px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+.navbar-brand {
+  position: absolute;
   margin-top: 40px;
   margin-bottom: 40px;
-  padding: 24px;
+  width: 100%;
+  text-align: center;
+  align-items: center;
 }
 
 .logo {
@@ -27,11 +46,13 @@ nav {
 }
 
 .nav-link {
+  color: #ffffff;
   transition: 0.2s;
   font-size: 20px;
   text-decoration: none;
   padding: 0 10px;
   margin: 0 10px;
+  text-align: center;
 }
 
 .nav-link:hover {

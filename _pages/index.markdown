@@ -7,7 +7,7 @@ title: Home
 permalink: /
 ---
 <div class="container" style="max-width: 100%; padding: 0;">
-  <img class="banner-img" src="assets/obi_image_banner.png" alt="Obinna_mic">
+  <img class="banner-img" src="assets/face chart.png" alt="Obinna_mic">
   <h1 class="centered page-title">Hi, I'm Obinna</h1>
 </div>
 <br>
