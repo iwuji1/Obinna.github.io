@@ -8,7 +8,7 @@ permalink: /
 ---
 <div class="container" style="max-width: 100%; padding: 0;">
   <img class="banner-img" src="assets/face chart.png" alt="Obinna_mic">
-  <h1 class="centered page-title">Hi, I'm Obinna</h1>
+  <h1 class="centered page-title">Hi,<br>I'm Obinna</h1>
 </div>
 <br>
 <br>
@@ -50,7 +50,7 @@ permalink: /
 <div class="page-image-1">
 <img class="page-image-1" src="assets/Daily Writing.jpeg" alt="Daily Writing">
 </div>
-<h3 class="box-header">Daily Writing</h3>
+<h3 class="box-header">Writing</h3>
 
 <p>I am a self proclaimed writer/storyteller! A big part of that is having a daily practice of doing that writing/storytelling. Here is a catalogue of my writing. It varies from funny to serious, life stories to random musings; all important for me to develop this practice so that one day I can go from self proclaimed to actual. Hope you enjoy</p>
 <div class="text-center">
