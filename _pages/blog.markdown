@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog
 ---
 
-# My Blog Posts
+My Blog Posts
+{: .page-header-2}
 
 <div class="main-blog">
   {% for post in site.posts %}

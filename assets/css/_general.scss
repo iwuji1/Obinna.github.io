@@ -91,8 +91,27 @@ hr {
   font-weight: 200;
 }
 
-.logo {
+.home-button {
+  background-image: url('../../assets/mini-logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width: 100px;
+  align-items: center;
+  text-align: center;
+  margin-top: 20%;
+  margin-left: 30%;
+
 }
+
+// .navbar-brand {
+//   position: absolute;
+//   margin-top: 40px;
+//   margin-bottom: 40px;
+//   width: 5%;
+//   text-align: center;
+//   align-items: center;
+// }
 
 .text-center {
   text-align: center;
@@ -106,6 +125,9 @@ hr {
   position: absolute !important;
   z-index: 1;
   width: 100%;
+  background-color: #000000;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .nav-link {
@@ -118,7 +140,7 @@ hr {
 }
 
 .nav-link:hover {
-  color: #000080 !important;
+  background-color: #000080 !important;
   font-weight: 600;
 }
 
@@ -176,8 +198,18 @@ p {
 }
 
 .page-title {
-  font-family: 'Recoleta Bold',Georgia,sans-serif;
+  font-family: sofia-pro,sans-serif;
   font-weight: 900;
+  text-align: left;
+}
+
+.page-header-2 {
+  text-align: center;
+  padding-top: 10%;
+  font-family: sofia-pro,sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+
 }
 
 .page-header {
@@ -190,7 +222,7 @@ p {
 }
 
 .box-header {
-  font-family: 'Recoleta Bold',Georgia,sans-serif;
+  font-family: sofia-pro,sans-serif;
   font-size: 30px;
   font-weight: 700;
   padding-left: 0;
@@ -286,9 +318,12 @@ p {
 }
 
 .footer {
-  border-radius: 0 0 0px 0px;
-  background-color: #000080; /* Black Gray */
+  background-color: #000000;
   color: #fff;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+
+.footer img{
+  width: 30%;
 }

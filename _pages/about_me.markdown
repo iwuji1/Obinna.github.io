@@ -4,7 +4,8 @@ title: About Me
 permalink: /about_me
 ---
 
-# About Me
+About Me
+{: .page-header-2}
 
 I'm very much still trying to come up with proper professional title. It's a bit of a struggle because I find that I like different aspects of different fields but find that the given titles tend to isolate what I can do to that specific role.
 {: .sub-container}
@@ -53,7 +54,7 @@ Essentially I'm on a quest to find work that allows my to combine different part
 <img class="page-image-2" src="assets/Daily Writing.jpeg" alt="Daily Writing">
 </div>
 <div class="flex-2-1 flex-child">
-<h3 class="box-header text-left">Daily Writing</h3>
+<h3 class="box-header text-left">Writing</h3>
 <p>I am a self proclaimed writer/storyteller! A big part of that is having a daily practice of doing that writing/storytelling. Here is a catalogue of my writing. It varies from funny to serious, life stories to random musings; all important for me to develop this practice so that one day I can go from self proclaimed to actual. Hope you enjoy</p>
 </div>
 </div>

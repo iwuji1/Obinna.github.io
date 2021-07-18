@@ -4,9 +4,10 @@ title: Contact
 permalink: /contact
 ---
 
-## Contact
+Contact
+{: .page-header-2}
 
-Get in touch!
+If you would like to get in contact with me please email me at:
 
 <form>
   <!-- Form stuff -->
