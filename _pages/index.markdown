@@ -13,7 +13,7 @@ permalink: /
 <br>
 <br>
 <br>
-<h2 class="page-header" >I'm Still defining my "Professional Title" but I tell stories and make complex topics easy to understand.</h2>
+<h2 class="page-header">I am a writer with a love for making complex topics easy to understand, using the power of technology and the internet!</h2>
 
 <div class="flex-container">
 <div class="flex-2 flex-child">
