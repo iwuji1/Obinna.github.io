@@ -7,7 +7,7 @@ permalink: /about_me
 About Me
 {: .page-header-2}
 
-I'm very much still trying to come up with proper professional title. It's a bit of a struggle because I find that I like different aspects of different fields but find that the given titles tend to isolate what I can do to that specific role.
+I am a writer with a love for making complex topics easy to understand, using the power of technology and the internet! I like different aspects of different fields and so I seek projects to combine my different interests.
 {: .sub-container}
 
 ### Let me give an examples:
