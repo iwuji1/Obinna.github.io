@@ -8,7 +8,7 @@ permalink: /
 ---
 <div class="container" style="max-width: 100%; padding: 0;">
   <img class="banner-img" src="assets/face chart.png" alt="Obinna_mic">
-  <h1 class="centered page-title">Hi,<br>I'm Obinna</h1>
+  <h1 class="page-title centered">Hi,<br>I'm Obinna</h1>
 </div>
 <br>
 <br>
