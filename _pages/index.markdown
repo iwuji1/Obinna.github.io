@@ -8,14 +8,14 @@ permalink: /
 ---
 <div class="container" style="max-width: 100%; padding: 0;">
   <img class="banner-img" src="assets/face chart.png" alt="Obinna_mic">
-  <h1 class="page-title centered">Hi,<br>I'm Obinna</h1>
+  <h1 class="p-screen-title page-title centered">Hi,<br>I'm Obinna</h1>
 </div>
 <br>
 <br>
 <br>
-<h2 class="page-header">I am a writer with a love for making complex topics easy to understand, using the power of technology and the internet!</h2>
+<h2 class="p-screen-page-header page-header">I am a writer with a love for making complex topics easy to understand, using the power of technology and the internet!</h2>
 
-<div class="flex-container">
+<div class="desktop flex-container">
 <div class="flex-2 flex-child">
 <h3 class="box-header">Videos</h3>
 
@@ -31,7 +31,25 @@ permalink: /
 </div>
 </div>
 
-<div class="flex-container">
+<div class="mobile flex-container-mobile flex-container">
+
+<h3 class="box-header">Videos</h3>
+
+<div class="flex-2 flex-child page-image-1">
+<img class="page-image-1" src="assets/Africa Explainer banner 2.png" alt="YT banner">
+</div>
+
+<div class="flex-2 flex-child">
+<p>I make explainer videos talking about different topics in relation to Africa.</p>
+<p>From history to economics or honestly whatever I can think of. It's a bit weird that as much I identify as Nigerian I don't know that much about my country or those surrounding me.</p>
+<p>This is an attempt to rectify that in a fun way. Thus the birth of the African Explainer :D </p>
+<div class="text-center">
+<a href="https://www.youtube.com/channel/UCv9oSIKjvzJYpICLBuAaVOw" class="btn btn-outline-primary" role="button">Check out the YT Channel</a>
+</div>
+</div>
+</div>
+
+<div class="flex-container-mobile flex-container">
 
 <div class="flex-3 flex-child">
 <div class="page-image-1">
