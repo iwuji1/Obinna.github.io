@@ -60,7 +60,7 @@ permalink: /
 
 <p>For most of my professional life(Which is not very long at this point), I have been a data analyst. I like how data and visuals can help better understandings of complex issues whether that relates to revenue or migration patterns. I want to create more data stories to illuminate things I find interesting so here is a catalogue of my work thus far!</p>
 <div class="text-center">
-<a href="/data_stories" class="btn btn-outline-primary" role="button">Check out data stories</a>
+<a href="/data_stories" class="btn btn-outline-primary" role="button">Check Out Data Stories</a>
 </div>
 </div>
 
